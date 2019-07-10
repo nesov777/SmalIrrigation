@@ -1,1 +1,1 @@
-# SmallIrrigation system
+# Small irrigation system
